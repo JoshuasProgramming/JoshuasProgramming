@@ -33,8 +33,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/JoshuasProgramming">
-    <img width="55%" align="right" alt="Joshua's's github stats" src="https://github-readme-stats.vercel.app/api?username=JoshuasProgramming&show_icons=true&hide_border=true" />
-    <img width="55%" align="right" alt="Joshua's's github stats" src="https://github.com/JoshuasProgramming/github-readme-stats" />
+    <img width="55%" align="right" alt="Joshuas' github stats" src="https://github-readme-stats.vercel.app/api?username=JoshuasProgramming&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Joshuas' github stats" src="https://github.com/JoshuasProgramming/github-readme-stats" />
     
   </a>
 
