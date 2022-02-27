@@ -1,5 +1,12 @@
 <!-- Your title -->
-## Hi, I'm Joshua.
+## Hi, I'm Joshua Thomas
+
+### Junior Front End/Full Stack Developer
+
+-HTML, CSS5, SASS, JavaScript/ES6, React, PHP
+
+- I'm passionate about learning the latest technologies whether that's the frontend or backend. I enjoy creating sleek and responsive applications, giving the user the best experience possible.
+Currently looking for an industrial placement in front end development / web development;
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -15,8 +22,8 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [LeetCode Problems](https://github.com/JoshuasProgramming/LeetCode-Problems);
-- 🌱 I’m currently learning HTML, CSS5, SASS, JavaScript ES6, React, PHP; 
-- 👯 I’m looking to collaborate on anything🤝;
+- 🌱 I’m currently learning React, algorithms and Tailwind CSS; 
+- 👯 I’m looking to collaborate on anything that we can both add to our portfolio🤝;
 - 📫 How to reach me: joshuasmotivation@gmail.com;
 
 **Languages and Tools:** 
