@@ -35,30 +35,32 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <a href="https://github.com/JoshuasProgramming">
     <img width="55%" align="right" alt="Joshuas' github stats" src="https://github-readme-stats.vercel.app/api?username=JoshuasProgramming&show_icons=true&hide_border=true" />
     <img width="55%" align="right" alt="Joshuas' github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuasProgramming&show_icons=true&hide_border=true"/>
-    
-    <img width="55%" align="right" alt="Joshuas' github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuasProgramming&theme=dark&show_icons=true&hide_border=true"/>
-    
+
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
   <br />
-
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code>
+  
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  
+  <br />
+  
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code>
   <br/>
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <br/>
   
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="30%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+  <br/>
 </p>
 
 <!-- Your hits or visitors
