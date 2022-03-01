@@ -3,7 +3,7 @@
 
 ### Junior Front End/Full Stack Developer
 
--HTML, CSS5, SASS, JavaScript/ES6, React, PHP and Responsive Design
+-HTML, CSS5, SASS, Tailwind CSS, JavaScript/ES6, React, PHP and Responsive Design
 
 - I'm passionate about learning the latest technologies whether that's the frontend or backend. I enjoy creating sleek and responsive applications, giving the user the best experience possible.
 Currently looking for an industrial placement in front end development / web development;
@@ -36,6 +36,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img width="55%" align="right" alt="Joshuas' github stats" src="https://github-readme-stats.vercel.app/api?username=JoshuasProgramming&show_icons=true&hide_border=true" />
     <img width="55%" align="right" alt="Joshuas' github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuasProgramming&show_icons=true&hide_border=true"/>
     
+    <img width="55%" align="right" alt="Joshuas' github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuasProgramming1&theme=dark&show_icons=true&hide_border=true"/>
+    
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -54,7 +56,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-
+  <br/>
+  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
 </p>
 
 <!-- Your hits or visitors
