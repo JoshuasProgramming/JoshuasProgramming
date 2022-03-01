@@ -36,7 +36,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img width="55%" align="right" alt="Joshuas' github stats" src="https://github-readme-stats.vercel.app/api?username=JoshuasProgramming&show_icons=true&hide_border=true" />
     <img width="55%" align="right" alt="Joshuas' github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuasProgramming&show_icons=true&hide_border=true"/>
     
-    <img width="55%" align="right" alt="Joshuas' github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuasProgramming1&theme=dark&show_icons=true&hide_border=true"/>
+    <img width="55%" align="right" alt="Joshuas' github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuasProgramming&theme=dark&show_icons=true&hide_border=true"/>
     
   </a>
 
