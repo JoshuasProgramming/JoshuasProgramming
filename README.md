@@ -1,7 +1,7 @@
 <!-- Your title -->
 ## Hi, I'm Joshua Thomas
 
-### Junior Front End/Full Stack Developer and The University Of Kent
+### Junior Front End/Full Stack Developer at The University Of Kent
 
 -HTML, CSS3, SASS, Tailwind CSS, JavaScript/ES6, React, PHP and Responsive Design
 
