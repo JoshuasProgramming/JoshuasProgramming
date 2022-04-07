@@ -26,6 +26,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning React, algorithms and Tailwind CSS; 
 - 👯 I’m looking to collaborate on anything that we can both add to our portfolio🤝;
 - 📫 How to reach me: joshuathomas2852@gmail.com;
+- Here is my portfolio [Personal Portfolio](https://joshuasprogramming.github.io/Joshua-Thomas-Dev-Portfolio/);
 
 **Languages and Tools:** 
 
