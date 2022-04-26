@@ -3,7 +3,7 @@
 
 ### Junior Front End/Full Stack Developer at The University Of Kent
 
--HTML, CSS3, SASS, Tailwind CSS, JavaScript/ES6, React, PHP and Responsive Design
+-HTML5, CSS3, SASS, Tailwind CSS, JavaScript/ES6, React, PHP and Responsive Design
 
 - I'm passionate about learning the latest technologies whether that's the frontend or backend. I enjoy creating sleek and responsive applications, giving the user the best experience possible.
 Currently looking for an industrial placement in front end development / web development;
