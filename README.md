@@ -72,3 +72,5 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/JoshuasProgramming/JoshuasProgramming.svg" />
 </p>
+
+<img width="100%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuasProgramming&theme=tokyonight_duo&hide_border=true&ring=000000&currStreakLabel=5ae87c&sideNums=5ae87c&dates=979797&sideLabels=5ae87c&currStreakNum=5ae87c&border=DD2727&stroke=00000000&background=00000000&fire=FF7600%22"/>
