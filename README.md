@@ -7,8 +7,6 @@
 
 - I'm passionate about learning the latest technologies whether that's the frontend or backend. I enjoy creating sleek and responsive applications, giving the user the best experience possible.
 - I'm also a web developer 
-Currently looking for an industrial placement in front end development / web development;
-
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
