@@ -7,6 +7,7 @@
 
 - I'm passionate about learning the latest technologies whether that's the frontend or backend. I enjoy creating sleek and responsive applications, giving the user the best experience possible.
 - I'm also a front end web developer 
+- I enjoy taking a UI/UX design from figma/adobe XD and recreating it into a live web page
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
