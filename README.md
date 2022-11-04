@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
 
-- 👨🏽‍💻 I’m currently working on [LeetCode Problems](https://github.com/JoshuasProgramming/LeetCode-Problems)
+- 👨🏽‍💻 I’m currently working on [MoneyBox](https://github.com/JoshuasProgramming/MoneyBox)
 - 😃 I recently completed a project called [Koccon 2.0](https://github.com/JoshuasProgramming/Kocoon-ver.2)                                  
 - 🌱 I’m currently learning React, algorithms and Tailwind CSS
 - 👯 I’m looking to collaborate on anything that we can both add to our portfolio (I'm also interested in freelancing from fiverr)🤝
